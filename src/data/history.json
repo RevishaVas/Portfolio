@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Asst. Software Product Specialist",
+      "organisation": "Bosch",
+      "startDate": "Nov, 2023",
+      "endDate": "March, 2024",
+      "experiences": ["Worked on WSMS System", "Researched new features for the BCS app"],
+      "imageSrc": "history/Bosch.png"
+    },
+    {
+      "role": "Graduate Apprentice Trainee",
+      "organisation": "Bosch",
+      "startDate": "Oct, 2022",
+      "endDate": "Oct, 2023",
+      "experiences": ["Worked on Confluence", "Designed and developed web applications"],
+      "imageSrc": "history/Bosch.png"
+    }
+    
+  ]

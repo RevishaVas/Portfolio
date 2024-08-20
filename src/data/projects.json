@@ -1,0 +1,19 @@
+[
+    {
+      "title": "Project 1 - Emotion Recognition using Deep Learning Technology",
+      "imageSrc": "projects/project.png",
+      "description": "AI Solution to detect emotions of user based on Ravdess dataset.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Yamini-hari/Emotion-Recognition-from-Audio-using-CNN-AI-Project-"
+    },
+    {
+      "title": "Project 2 - Hotel Management System",
+      "imageSrc": "projects/project.png",
+      "description": "Full-Stack application based MVC architecture using Java, Servlets, React.js.",
+      "skills": ["React", "Java", "Servlets"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/RevishaVas/Hotel-Management-System"
+    }
+    
+  ]
